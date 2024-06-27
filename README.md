@@ -18,3 +18,4 @@ Feature Extraction: Extracted relevant features using techniques like TF-IDF and
 Model Training: Trained machine learning models to classify sentiments.
 Model Evaluation: Evaluated model performance using metrics such as accuracy, precision, recall, and F1-score.
 Deployment: Deployed the model for real-time sentiment analysis.
+
